@@ -1,3 +1,30 @@
+
+
+# Brandcast React Hackathon
+
+Prompt:
+ - Make a game with React that uses animations (e.g. React motion)
+ - Time is short; try not to bite off more than you can chew
+ - Some React game examples:
+    - 24 hours of work: https://github.com/stevenhauser/i-have-to-return-some-videotapes
+    - 2 hours of work: https://github.com/bbstilson/react-dodgy-game 
+    - https://github.com/tomocchino/react-snake
+ - Options:
+    - fork an existing React Game and make it much better / cooler
+    - start from scratch with some simple boiler plate like this one or others
+ - Components of a game:
+    - event loop to render planned events over time (enemies approaching etc)
+    - collisions
+    - scores
+    - keyboard or mouse interactions
+
+Time limit: open (by Friday).
+Prize: be featured with your game on our Brandcast blog, and get some Brandcast swag.
+Submissions: conor@brandcast.com subject: Brandcast Hackathon.
+
+--------------------------------------------------------------------
+Node 6 require
+
 # react-boilerplate - Boilerplate for "SurviveJS - React"
 
 See [SurviveJS - React](http://survivejs.com/react/introduction/) for the book.
