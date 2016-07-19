@@ -10,8 +10,8 @@ Prompt:
     - 2 hours of work: https://github.com/bbstilson/react-dodgy-game 
     - https://github.com/tomocchino/react-snake
  - Options:
-    - fork an existing React Game and make it much better / cooler
-    - start from scratch with some simple boiler plate like this one or others
+    - start from scratch with some simple boiler plate
+    - fork an existing React Game and make it __unrecognizably__ better (not just a PR)
  - Components of a game:
     - event loop to render planned events over time (enemies approaching etc)
     - collisions
