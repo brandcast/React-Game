@@ -23,7 +23,7 @@ Prize: be featured with your game on our Brandcast blog, and get some Brandcast 
 Submissions: conor@brandcast.com subject: Brandcast Hackathon.
 
 --------------------------------------------------------------------
-Node 6 require
+Node 6 
 
 # react-boilerplate - Boilerplate for "SurviveJS - React"
 
